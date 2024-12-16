@@ -9,8 +9,8 @@ Practice for a student attempting to run his Python script on a hosted page.  I 
 __this will be some kind of special text__
 `this will look like code syntax.`
 
-iii
+iii 
 www
 
-`iii`
+`iii` 
 `www`
